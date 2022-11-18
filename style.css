@@ -22,3 +22,10 @@ li{
 .big {
     font-size: 18px;
 }
+
+img{
+    border-radius: 50%;
+    width: 350px;
+   
+}
+
