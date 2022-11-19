@@ -34,21 +34,24 @@ li{
 }
 
 img{
-    border-radius: 50%;
+    border-radius: 30%;
     width: 350px;
 }
 
 .name-picture{
     background-color: rgb(55, 66, 75);
     display: inline-block;
-    width: 40%;
-    margin-bottom: 20px;
+    width: 30%;
+    margin-right: 50px;
     text-align: center;
 
 }
 .about-me{
     display: inline-block;
-    width: 30%;
+    width: 20%;
+    height: 50px;
+    padding-left: 150px;
+    
      
 }
 
